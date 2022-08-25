@@ -4,7 +4,9 @@ Hi, My name is Uvesh Khatri and I have completed the 15th Project of the iNeuron
 
 # Project 15
 
-In this project i have created a Product Design Landing Page from Scratch. And i have learnt a lot of things like Position, flexbox.
+In this project i have created a Product Design Landing Page from Scratch. And i have learnt a lot of things like Position, media query .
+
+### Mobile Resposive ✅
 
 It took me 6 Hours to complete this project
 ## Tech Stack Used 
@@ -13,6 +15,8 @@ It took me 6 Hours to complete this project
 - CSS
 
 ## My Project is looking like :
+[Live Link](https://uveshkhatri-product-design-landing-p.netlify.app/)
+
 ![Project15-Result](live-project-15.png)
 
 [Live Link](https://uveshkhatri-product-design-landing-p.netlify.app/)
